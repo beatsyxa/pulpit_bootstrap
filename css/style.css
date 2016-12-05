@@ -1,0 +1,67 @@
+/*blue, .red, .green, .yellow{
+	min-height: 100px;
+}
+.blue{
+	background: blue !important;
+}
+.red{
+	background: red !important;
+}
+.green{
+	background: green !important;
+}
+.yellow{
+	background: yellow !important;
+}
+.block{
+	min-height: 50px;
+	background: #ccc;
+	text-align: center;
+}
+.top{
+	margin-bottom: 10px;
+	min-height: 50px;
+}
+.footer{
+	margin-top: 10px;
+	min-height: 50px;
+}
+.inside-right{
+	padding-right: 10px;
+	background: #ccc;
+	height: 200px;
+}
+.inside-left{
+	background: #ccc;
+	height: 200px;
+}
+*/
+.head{
+	background: #ccc;
+}
+h1{
+	margin: 0;
+	padding: 20px 0;
+}
+ul{
+	margin: 0;
+	padding: 0;
+	margin-left: -15px;
+}
+li{
+	list-style: none;
+	border-bottom: 1px solid #ccc;
+}
+a{
+	display: block;
+	color: black;
+	padding: 10px;
+
+}
+img{
+	width: 100%;
+}
+.bg{
+	background: #82d4d6;
+	margin-top: 20px;
+}
